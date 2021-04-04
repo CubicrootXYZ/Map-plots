@@ -25,3 +25,13 @@ You might want to update the files in the `/data` folder with current one's.
 ## Requirments
 
 Take a look in the `requirements.txt`
+
+## Attribution
+
+**Thanks for the data from:**
+
+Risklayer GmbH (www.risklayer.com) and Center for Disaster Management and Risk Reduction Technology (CEDIM) at Karlsruhe Institute of Technology (KIT) and the Risklayer-CEDIM-Tagesspiegel SARS-CoV-2 Crowdsourcing Contributors
+
+**Thanks for the Geodata from:**
+
+Esri Deutschland
