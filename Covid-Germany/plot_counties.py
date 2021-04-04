@@ -54,7 +54,7 @@ for row in data.iterrows(): # iterate over all days
     if j >= 7 and plot:
         counties.plot(legend=True, edgecolor="black", linewidth=0.25, column='SHAPE_Area', cmap="hot_r", vmin=0, vmax=600, missing_kwds={"color": "lightgrey", "edgecolor": "black"})
         figtext(.05,0.05,'Geodaten von esri Deutschland', fontsize=8, ha='left')
-        figtext(.05,0.02,'Fallzahlen von github.com/jgehrcke/covid-19-germany-gae', fontsize=8, ha='left')
+        figtext(.05,0.02,'Fallzahlen von github.com/jgehrcke/covid-19-germany-gae/Risklayer GmbH', fontsize=8, ha='left')
         plt.axis('off')
         plt.title(f"7 Tage Inzidenz am {date_str}")
         
